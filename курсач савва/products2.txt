@@ -1,0 +1,9 @@
+0
+lm
+20
+1
+chapmen
+50
+2
+priluki
+40

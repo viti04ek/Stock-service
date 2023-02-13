@@ -1,0 +1,9 @@
+0
+Stock of steal
+Kyiv
+1
+Stock of clothes
+Lviv
+2
+Stock of cigarette
+Odessa
