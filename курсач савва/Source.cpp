@@ -117,11 +117,11 @@ public:
 		system("cls");
 
 		set_cursor(30, 14);
-		cout << "---------------------------------------";
+		cout << "---------------------------------------------";
 		set_cursor(30, 15);
-		cout << "| Created by Sava Novikov, KA-11 IASA |";
+		cout << "| Created by Viktor Stoianovych, KA-11 IASA |";
 		set_cursor(30, 16);
-		cout << "---------------------------------------";
+		cout << "---------------------------------------------";
 
 		int key = 1;
 
